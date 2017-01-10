@@ -1,0 +1,27 @@
+---
+layout: post
+title: "19/10/2015"
+date: 2015-10-19 13:30:00
+---
+### Updates:
+* I added a sidebar menu on the front page of my Blog.  It has information about my Blog and links to its source code and the Jekyll website.  I created a new css class in the `css/main.scss` file for the sidebar.  Here's a snippet of it's CSS.
+{% highlight scss %}
+.side-nav {
+    line-height:25px;
+    height:300px;
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    float:right;
+    padding:15px;
+}
+{% endhighlight %}
+I added a `nav_message` field in `_config.yml`.  Whatever HTML I put into it is displayed in the nav bar on the front page.  
+{% highlight html %}
+<nav class="side-nav">
+[[ site.nav_message ]]
+</nav>
+{% endhighlight %}
+***NOTE:*** *I have used `[ ]` here to represent `{ }` because using `{ }` replaces the text with `site.nav_message`.*
+
+
+* I updated the `particle.svg` icon in the footer so its now in a circle.  I had to use Inkscape and change the SVG code.  Magnified, it looks like this.
+<center><img src="/images/particle.svg" width="100px" height="100px"></center>

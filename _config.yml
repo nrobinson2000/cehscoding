@@ -1,34 +1,27 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: CEHS Coding Club
+email: cehscoding@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  CEHS Coding is a student led club for learning programming.
+twitter_box: >
+  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/nrobinson2000" data-widget-id="656147837043015680">Tweets by @nrobinson2000</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://cehs.github.io" # the base hostname & protocol for your site
+twitter_username: CEHSCoding
+github_username:  cehs
+
+
+# nav_message: >
+#
+#   <h3>About my Project:</h3>
+#   <ul>
+#   <li>My project is a practical demonstration of the Internet of Things that utilizes arduino-like boards to create a wifi-connected device. <strong> Read the links above to learn about my project.</strong></li>
+#   <br>
+#   <li>This website is hosted on GitHub pages on my GitHub account.  You can see the <a href="https://github.com/nrobinson2000/nrobinson2000.github.io">source code here.</a></li>
+#   </ul>
+
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
