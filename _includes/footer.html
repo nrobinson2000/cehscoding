@@ -50,30 +50,16 @@
           </li>
           {% endif %}
 
-          {% if site.particle_username %}
+          {% if site.insta_username %}
           <li>
-            <a href="https://community.particle.io/users/{{ site.particle_username }}/activity">
-              <span class="icon  icon--particle">
-                <img src="/images/particle.svg" height="16px" width="16px">
+            <a href="https://instagram/{{ site.particle_username }}/activity">
+              <span class="icon  icon--instagram">
+                <img src="/images/instagram.png" height="16px" width="16px">
                 </span>
-              <span class="username">{{ site.particle_username }}</span>
+              <span class="username">{{ site.insta_username }}</span>
             </a>
           </li>
           {% endif %}
-
-
-     {% if site.onename %}
-          <li>
-            <a href="https://onename.com/{{ site.onename }}">
-              <span class="icon  icon--onename">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" height="16px" width="16px">
-                </span>
-              <span class="username">{{ site.onename }}</span>
-            </a>
-          </li>
-          {% endif %}
-
-
 
         </ul>
       </div>
