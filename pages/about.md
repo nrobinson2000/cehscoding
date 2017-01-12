@@ -4,12 +4,26 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vestibulum ac nisi vitae eleifend. In ac convallis ipsum. Maecenas facilisis iaculis dui a lacinia. Vestibulum pretium ullamcorper nibh, nec iaculis lacus vestibulum sed. Cras ultrices massa eu fermentum vulputate. Aenean risus erat, semper a commodo at, aliquet vel nisi. Cras eget sagittis justo. Suspendisse dignissim ornare justo quis euismod. Proin et metus ex. In maximus nunc nisl, et gravida justo sollicitudin vitae. Quisque condimentum convallis elit, non bibendum sem vulputate suscipit. Etiam tristique finibus leo eget interdum. Duis vitae ultrices nibh, quis laoreet mauris. Vestibulum dapibus, augue sed facilisis lacinia, dolor odio convallis ex, a pulvinar nibh erat non risus. Praesent condimentum purus eu nibh laoreet, ac accumsan mauris posuere.
+### CEHS Coding is a student-led club hosted on Monday afternoons in the Achievement center.
 
-Curabitur volutpat, tortor ut varius dapibus, mauris turpis dictum risus, nec sodales ante est eget lacus. Pellentesque iaculis risus quis purus mattis porta. Pellentesque sed velit ut lorem pharetra elementum. Suspendisse eleifend a dolor eget feugiat. Cras dolor lectus, cursus id accumsan nec, fermentum ac sapien. Sed egestas orci in vestibulum aliquam. Suspendisse non cursus enim. Phasellus at ex faucibus, pulvinar ex pretium, rutrum massa. Fusce sed massa quis massa accumsan commodo. Quisque pharetra, dolor in tristique egestas, libero lectus varius quam, lacinia venenatis diam ipsum id velit.
+* Club meetings are held from 2:30 to about 4:00.  The ending time may vary depending on sports or other commitments.
 
-Quisque tellus augue, bibendum eget ipsum eu, ornare varius lorem. In consectetur accumsan congue. Aenean sem ante, bibendum vitae ultricies ac, pretium sed urna. Nullam ornare dui a metus maximus tincidunt. Sed ligula orci, facilisis non consectetur vel, imperdiet a elit. Sed odio arcu, iaculis in fringilla et, mattis quis neque. In facilisis metus a nibh fringilla, a maximus augue tincidunt. Mauris est quam, ornare vel ex vel, suscipit fringilla nunc. Vestibulum id sagittis augue. Sed ac elementum ipsum. Nunc facilisis risus et sem consectetur, non lacinia enim aliquet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean magna nisi, blandit ac vehicula eu, mollis eu sapien. Phasellus in dolor in lectus molestie egestas.
+### CEHS Coding aims to provide students with real programming skills and valuable knowledge through practical, hands-on activities and projects.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at ligula eget dolor pellentesque porttitor ut sed ante. Phasellus ut massa neque. Donec nec ipsum in tellus viverra aliquam. Ut eget suscipit magna. Cras vehicula libero et sollicitudin gravida. Cras consequat sit amet est sed fringilla. Etiam placerat ante at rutrum sollicitudin. Donec posuere viverra viverra. Suspendisse a risus nec nisi posuere molestie. Aliquam erat volutpat. Donec vitae porttitor lectus. Donec efficitur semper dui, vel lobortis libero cursus sit amet.
+* We will cover many topics in the club, ranging from Web Development to Embedded Firmware Engineering. Our club is student-led and the majority of topics will be taught by fellow students.  We hope to have guest speakers as well if possible.
 
-Nullam laoreet ipsum dui, vitae dignissim libero fermentum vel. Aenean vehicula tortor eu mollis varius. Vestibulum feugiat mollis sagittis. Proin in porta turpis. Etiam odio sapien, dapibus in arcu nec, facilisis dictum nisl. Quisque tempor metus quis sapien ullamcorper vestibulum. Nullam finibus tempor dolor, eu blandit arcu scelerisque fringilla. Donec bibendum arcu a dolor blandit, eget pulvinar neque molestie.
+### CEHS Coding is for anyone who is interested in technology, computers, or electronics.
+
+* Everyone is welcome in CEHS Coding. We do not discriminate people by their interests, experience, gender, or race. We want you to get the best experience out of our club.
+
+### CEHS Coding is a free club.
+
+* We do not charge for sharing our knowledge and time. When we purchase hardware kits, we will require funding, but that is the future. We live in the present.
+
+### CEHS Coding aims to make productive use of club time.
+
+* The time we have in the Achievement Center is valuable, and we use it for our practical activities and hands-on learning. We use Slack to communicate outside of club time. Slack allows club members to message each other and share files without using E-Mail.
+
+* Anyone who joins our Slack can join CEHS Coding. Use the Slack button below to join.
+
+<!-- <script src="http://cehscoding.herokuapp.com/slackin.js"></script> -->
