@@ -23,3 +23,9 @@ Nathan is the manager of the CEHS Coding website, Twitter and Slack. He also lea
 
 
 ## William Jordan
+William is a freshman who's only been coding for a couple of months. His favorite place to code is [JSFiddle](https://jsfiddle.net/SinBADCEHS/kx7f6e66/6/).
+
+William uses Javascript and HTML5 for most of his projects (so far only games).
+
+He really wants to learn more about HTML5 through this club,
+"I am a scrublord" -William Jordan September fifth 2016.
