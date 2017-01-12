@@ -14,6 +14,8 @@ Nathan uses C++ when creating projects with Photons, Bash when creating tools, a
 
 Nathan's full portfolio of projects and achievements can be found at [nrobinson2000.me](http://nrobinson2000.me).
 
+Nathan is the manager of the CEHS Coding website, Twitter and Slack. He also leads the club meetings.
+
 ## Benjamin Keller
 
 
