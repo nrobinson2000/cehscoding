@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### CEHS Coding is a student-led club hosted on Monday afternoons in the Achievement center.
+### CEHS Coding is a student-led club hosted on Monday afternoons in the Achievement Center.
 
 * Club meetings are held from 2:30 to about 4:00.  The ending time may vary depending on sports or other commitments.
 
