@@ -27,5 +27,8 @@ William is a freshman who's only been coding for a couple of months. His favorit
 
 William uses Javascript and HTML5 for most of his projects (so far only games).
 
-He really wants to learn more about HTML5 through this club,
-"I am a scrublord" -William Jordan September fifth 2016.
+He really wants to learn more about HTML5 through this club.
+
+>"I am a scrublord"
+>
+>William Jordan September 5, 2016.
