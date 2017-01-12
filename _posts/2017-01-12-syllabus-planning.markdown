@@ -4,7 +4,14 @@ title: "Syllabus Planning"
 date: "2017-01-12 14:37:29 -0500"
 ---
 
-Here is the list of topics we plan to go over this semester in CEHS Coding Club.
+Here is the list of topics we are planning to go over in CEHS Coding Club.
+
+## Introduction
+
+* Uses of programming and practical applications
+* Setting up computer for coding, installing tools, [Atom](https://atom.io), etc.
+* Outline of syllabus
+* Discuss goals members want to achieve in Coding Club and evaluate feasibility
 
 ## Web Development
 
@@ -40,3 +47,9 @@ Here is the list of topics we plan to go over this semester in CEHS Coding Club.
 * Using Photons to create cloud connected circuits and devices
 * Pulling and pushing data from and to Photons using a webpage
 * Make home automation projects: sensors, lights
+
+## Product Creation
+
+* All members will have a final project they can develop in pairs or individually
+* Members will use the skills they learned from previous modules to create a product with multiple parts
+* For example, members could create a cloud connected device using a photon and create web app or native tool to interface with it in an effective method
