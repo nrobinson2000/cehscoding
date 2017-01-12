@@ -24,6 +24,7 @@ Here is the list of topics we are planning to go over in CEHS Coding Club.
 
 * Becoming familiar with using repositories
 * Using GitHub's online interface
+* Forking and pull requests
 * Markdown fluency
 * Using repositories locally
 * Using git commands in terminal
