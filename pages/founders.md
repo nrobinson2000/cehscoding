@@ -4,7 +4,7 @@ title: Founders
 permalink: /founders/
 ---
 
-Here are the founders of CEHS Coding. Members can [edit this page on GitHub.](https://github.com/cehs/cehs.github.io/blob/master/pages/founders.md)
+Here are the founders of CEHS Coding. Founders can [edit this page on GitHub.](https://github.com/cehs/cehs.github.io/blob/master/pages/founders.md)
 
 ## Nathan Robinson
 
