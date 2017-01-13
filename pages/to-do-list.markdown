@@ -10,6 +10,7 @@ Members can [edit this page on GitHub.](https://github.com/cehs/cehs.github.io/b
 
 ## Here is the list at the present:
 * Get new members
+* Finalize Syllabus
 * Compile hardware kits
 * Raise funding
 * ☑️ Make a logo to use on our Social Media Pages.
