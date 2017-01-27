@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Check out the new section in the library!"
-date: "2017-01-27 21:38:09 -0500"
+date: "2017-01-27 12:38:09 -0500"
 ---
 
 Today Nathan donated his collection of programming and Linux magazines to the library.  Anyone can now come to the library to enjoy the magazines and books.
