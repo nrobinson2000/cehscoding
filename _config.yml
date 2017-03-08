@@ -16,9 +16,10 @@ insta_username: cehscoding
 
 # nav_message: >
 #
-#   <h3>About my Project:</h3>
-#   <ul>
-#   <li>My project is a practical demonstration of the Internet of Things that utilizes arduino-like boards to create a wifi-connected device. <strong> Read the links above to learn about my project.</strong></li>
+#   <h3>Welcome to CEHS Coding!</h3>
+#   <ul
+#   <li>CEHS Coding is a student-led club hosted on Monday afternoons in the Achievement Center.</li>
+#   <li>
 #   <br>
 #   <li>This website is hosted on GitHub pages on my GitHub account.  You can see the <a href="https://github.com/nrobinson2000/nrobinson2000.github.io">source code here.</a></li>
 #   </ul>
