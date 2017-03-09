@@ -26,6 +26,8 @@ Particle on Raspberry Pi provides complete access to the forty IO pins on Raspbe
 
 Currently, Particle on Raspberry Pi is optimized for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/), the [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/), the [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/), and the [Raspberry Pi B+](https://www.raspberrypi.org/products/model-b-plus/).  Particle is currently working to add support for the newly released [Raspberry Pi Zero Wireless](https://www.raspberrypi.org/products/pi-zero-wireless/).
 
+<hr>
+
 ## Setup
 
 The first step is to make sure your Raspberry Pi is updated to the latest version of Raspbian Jessie and it is connected to your network.  Update your Pi's software using the following command:
@@ -34,7 +36,7 @@ The first step is to make sure your Raspberry Pi is updated to the latest versio
 $ sudo apt update && sudo apt upgrade
 {% endhighlight %}
 
-Next, once you have been accepted into the [Raspberry Pi on Particle Beta](https://www.particle.io/products/development-tools/raspberry-pi-on-particle), run the following command to install [`particle-agent`](https://github.com/spark/particle-agent):
+Next, once you have been accepted into the [Raspberry Pi on Particle Beta](https://www.particle.io/products/development-tools/raspberry-pi-on-particle), run the following command on your Raspberry Pi to install [`particle-agent`](https://github.com/spark/particle-agent):
 
 {% highlight shell %}
 $ bash <( curl -sL https://particle.io/install-pi )
@@ -44,11 +46,13 @@ During the installation of [`particle-agent`](https://github.com/spark/particle-
 
 Once the installation has completed, you can use your Raspberry Pi with Particle's tools.  You can build and flash firmware using the [Web IDE](https://build.particle.io), [Particle Dev](https://www.particle.io/products/development-tools/particle-desktop-ide), [particle-cli](https://www.particle.io/products/development-tools/particle-command-line-interface), or [po-util](https://nrobinson2000.github.io/po-util/) to build locally.
 
+<hr>
+
 ## Running bash commands with Particle
 
-Particle on Raspberry Pi adds support for running bash commands and scripts as Linux processes from within the firmware.  Input can be supplied with arguments and stdin, and output can can be captured for use in your firmware.
+Particle on Raspberry Pi supports running bash commands and scripts as Linux processes from within the firmware.  Input can be supplied with arguments and stdin, and output can can be captured for use in your firmware.
 
-Here is an example for getting the internal CPU temperature of the Raspberry Pi:
+Here is an example for retrieving the internal CPU temperature of the Raspberry Pi:
 
 {% highlight cpp %}
 #include "Particle.h"
@@ -60,6 +64,7 @@ void setup()
   // The output is temp=43.5'C, so read past the = and parse the number
   proc.out().find("=");
   float cpuTemp = proc.out().parseFloat();
+  Particle.publish("cpu-temp", String(cpuTemp));
 }
 
 void loop()
@@ -67,3 +72,13 @@ void loop()
  // Nothing in the loop
 }
 {% endhighlight %}
+
+<hr>
+
+## More information
+
+Particle is thoroughly documenting Particle on Raspberry Pi.  [Their official documentation](https://docs.particle.io/guide/getting-started/intro/raspberry-pi/) provides all provides a multitude of information, reference material, and tutorials.  [Their setup guide for Raspberry Pi is comprehensive.](https://docs.particle.io/guide/getting-started/start/raspberry-pi/)
+
+For me the most useful section of the documentation is the [Firmware Reference](https://docs.particle.io/reference/firmware/raspberry-pi/).
+
+Additionally, the [Particle Community](https://community.particle.io) is always available to help with any issues or questions.
