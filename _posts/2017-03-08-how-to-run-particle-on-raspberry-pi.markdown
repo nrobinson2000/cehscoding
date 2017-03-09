@@ -43,3 +43,27 @@ $ bash <( curl -sL https://particle.io/install-pi )
 During the installation of [`particle-agent`](https://github.com/spark/particle-agent), you will be asked to log in using your Particle credentials in order to claim your Raspberry Pi to your account.
 
 Once the installation has completed, you can use your Raspberry Pi with Particle's tools.  You can build and flash firmware using the [Web IDE](https://build.particle.io), [Particle Dev](https://www.particle.io/products/development-tools/particle-desktop-ide), [particle-cli](https://www.particle.io/products/development-tools/particle-command-line-interface), or [po-util](https://nrobinson2000.github.io/po-util/) to build locally.
+
+## Running bash commands with Particle
+
+Particle on Raspberry Pi adds support for running bash commands and scripts as Linux processes from within the firmware.  Input can be supplied with arguments and stdin, and output can can be captured for use in your firmware.
+
+Here is an example for getting the internal CPU temperature of the Raspberry Pi:
+
+{% highlight cpp %}
+#include "Particle.h"
+
+void setup()
+{
+  Process proc = Process::run("vcgencmd measure_temp");
+  proc.wait();
+  // The output is temp=43.5'C, so read past the = and parse the number
+  proc.out().find("=");
+  float cpuTemp = proc.out().parseFloat();
+}
+
+void loop()
+{
+ // Nothing in the loop
+}
+{% endhighlight %}
