@@ -131,7 +131,7 @@ network={
 
 1. **Boot Raspberry Pi Zero Wireless and Connect using SSH:** Using Terminal on Linux or macOS I connected to my Pi Zero W by running: `ssh pi@pizero.local`.<br><br> *Your command will be different if you chose to set a different hostname in the previous section.*
 
-2. **OPTIONAL - Change your the password for the `pi` user:** You can change the password from `raspberry` to something more secure with `passwd`.
+2. **OPTIONAL - Change the password for the `pi` user:** You can change the password from `raspberry` to something more secure with `passwd`.
 
 3. **Check for updates:** Run the following to check and install any available updates:<br>`sudo apt update && sudo apt upgrade`
 
