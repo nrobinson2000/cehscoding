@@ -109,7 +109,7 @@ On March 9, 2017 my Raspberry Pi Zero Wireless arrived. After an hour of setup I
 
 6. **Configure Wi-Fi, Enable SSH, and Change Hostname on Pi Zero W:**
 
-* To enable Wi-Fi I simply created an entry in `etc/wpa_supplicant/wpa_supplicant.conf` on the SD card.</li>
+* To enable Wi-Fi I simply created an entry in `etc/wpa_supplicant/wpa_supplicant.conf` on the SD card.
 
 {% highlight language %}
 network={
