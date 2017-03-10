@@ -99,7 +99,7 @@ On March 9, 2017 my Raspberry Pi Zero Wireless arrived. After an hour of setup I
 
 1. **Unbox the kit:** The Pi Zero W and various accessories came in small separated plastic bags.
 
-2. **Dowload Raspbian:** I chose to use [Raspbian Jessie Lite](https://www.raspberrypi.org/downloads/raspbian/).
+2. **Download Raspbian:** I chose to use [Raspbian Jessie Lite](https://www.raspberrypi.org/downloads/raspbian/).
 
 3. **Prepare the Pi Zero W for soldering:** I gathered the Pi Zero W, 40 pin header, breadboard, and case and brought them down to my workshop.
 
