@@ -24,7 +24,7 @@ With Particle on Raspberry Pi, you can use the same C++ code for Particle's othe
 
 Particle on Raspberry Pi provides complete access to the forty IO pins on Raspberry Pi, allowing you to do digital and analog interactions with your favorite electronics.  Additionally, Particle on Raspberry Pi allows you to create functions for calling virtually any Bash command or script present on Raspberry Pi, facilitating dynamic, flexible interaction from within firmware.
 
-Currently, Particle on Raspberry Pi is optimized for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/), the [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/), the [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/), and the [Raspberry Pi B+](https://www.raspberrypi.org/products/model-b-plus/).  Particle is currently working to add support for the newly released [Raspberry Pi Zero Wireless](https://www.raspberrypi.org/products/pi-zero-wireless/).
+Currently, Particle on Raspberry Pi is optimized for the [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/), the [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/), the [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/), the [Raspberry Pi B+](https://www.raspberrypi.org/products/model-b-plus/), and the newly released [Raspberry Pi Zero Wireless](https://www.raspberrypi.org/products/pi-zero-wireless/).
 
 <hr>
 
@@ -57,14 +57,20 @@ Here is an example for retrieving the internal CPU temperature of the Raspberry 
 {% highlight cpp %}
 #include "Particle.h"
 
-void setup()
+int getTempC(String args)
 {
   Process proc = Process::run("vcgencmd measure_temp");
   proc.wait();
   // The output is temp=43.5'C, so read past the = and parse the number
   proc.out().find("=");
   float cpuTemp = proc.out().parseFloat();
-  Particle.publish("cpu-temp", String(cpuTemp));
+  Particle.publish("cpu-temp", String(cpuTemp))
+  return 0;
+}
+
+void setup()
+{
+  Particle.function("getTempC", getTempC);
 }
 
 void loop()
@@ -75,9 +81,21 @@ void loop()
 
 <hr>
 
+## Input and Output
+
+With Particle on Raspberry Pi you can control the numerous pins on Raspberry Pi.  Many of them are digital inputs and outputs, with several of them able to perform protocols like I2C, SPI, and UART.  A few of the pins are capable of analog write through PWM (Pulse Width Modulation).  Raspberry Pi's do not have native analog input capability, but one could use an ADC to obtain analog readings.
+
+
+<center>
+<img src="/images/pi-pinout.png">
+</center>
+
+
+<hr>
+
 ## More information
 
-Particle is thoroughly documenting Particle on Raspberry Pi.  [Their official documentation](https://docs.particle.io/guide/getting-started/intro/raspberry-pi/) provides all provides a multitude of information, reference material, and tutorials.  [Their setup guide for Raspberry Pi is comprehensive.](https://docs.particle.io/guide/getting-started/start/raspberry-pi/)
+Particle is thoroughly documenting Particle on Raspberry Pi.  [Their official documentation](https://docs.particle.io/guide/getting-started/intro/raspberry-pi/) provides a multitude of information, reference material, and tutorials.  [Their setup guide for Raspberry Pi is comprehensive.](https://docs.particle.io/guide/getting-started/start/raspberry-pi/)
 
 For me the most useful section of the documentation is the [Firmware Reference](https://docs.particle.io/reference/firmware/raspberry-pi/).
 
