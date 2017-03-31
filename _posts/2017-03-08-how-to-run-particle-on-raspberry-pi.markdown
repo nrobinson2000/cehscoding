@@ -43,7 +43,7 @@ Once the installation has completed, you can use your Raspberry Pi with Particle
 
 # Running bash commands with Particle
 
-Particle on Raspberry Pi supports running bash commands and scripts as Linux processes from within the firmware. Input can be supplied with arguments and stdin, and output can can be captured for use in your firmware.
+Particle on Raspberry Pi supports running bash commands and scripts as Linux processes from within the firmware. Input can be supplied with arguments and stdin, and output can be captured for use in your firmware.
 
 Here is an example for retrieving the internal CPU temperature of the Raspberry Pi:
 
