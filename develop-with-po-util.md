@@ -1,4 +1,4 @@
-> **The Particle Web IDE, Particle Dev, and particle-cli are not the only ways to program Particle devices: by Nathan Robinson**
+> **The Particle Web IDE, Particle Dev, and particle-cli are not the only ways to program Particle devices - by Nathan Robinson**
 
 <p align="center">
 <img src="/images/po-util-updated.svg">
