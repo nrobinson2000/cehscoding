@@ -216,6 +216,6 @@ Stars, Feedback, Contributions and Donations are greatly appreciated.  I hope yo
 [Linux Edition Repo](https://github.com/nrobinson2000/po-util) - [macOS Edition Repo](https://github.com/nrobinson2000/homebrew-po)
 
 <p>
-    <a href="https://www.paypal.me/nrobinson2000"><img src="https://img.shields.io/badge/paypal-donate-009cde.svg"></a>
-    <a href="http://nrobinson2000.github.io/donate-bitcoin/?currency=USD"><img src="https://img.shields.io/badge/bitcoin-donate-orange.svg"></a>
+    <a href="https://www.paypal.me/nrobinson2000"><img src="https://img.shields.io/badge/paypal-donate-009cde.png"></a>
+    <a href="http://nrobinson2000.github.io/donate-bitcoin/?currency=USD"><img src="https://img.shields.io/badge/bitcoin-donate-orange.png"></a>
 </p>
