@@ -10,7 +10,7 @@
 
 Po-util is my personal solution to local Particle development that uses the GCC for ARM Cortex processors toolchain to build your projects using the [Particle Firmware Source](https://github.com/spark/firmware) directly on your computer.
 
-Po-util is a bash shell script that it is available on GitHub for [Linux](https://github.com/nrobinson2000/po-util) and [macOS](https://github.com/nrobinson2000/homebrew-po).
+Po-util is a bash shell script that is available on GitHub for [Linux](https://github.com/nrobinson2000/po-util) and [macOS](https://github.com/nrobinson2000/homebrew-po).
 
 ## Features of po-util
 
