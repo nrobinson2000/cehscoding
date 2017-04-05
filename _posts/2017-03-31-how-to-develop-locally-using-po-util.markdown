@@ -20,7 +20,7 @@ Po-util is a bash shell script that is available on GitHub for [Linux](https://g
 
 ## Features of po-util
 
-There are are many more features to po-util than aliasing a few `make` commands.  Po-util is unique workflow I meticulously developed so that others can experience local Particle development the way it was meant to be.
+There are many more features to po-util than aliasing a few `make` commands.  Po-util is unique workflow I meticulously developed so that others can experience local Particle development the way it was meant to be.
 
 #### Po-util offers many features, including:
 
