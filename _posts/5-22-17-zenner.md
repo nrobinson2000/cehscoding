@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caleb's Status Report!"
-date: "2017-05-22 10:16:28 -0500"
+date: "2017-05-22 10:20:28 -0500"
 ---
 Today, I, Caleb, started using a brand new Photon. I started it up and set it up using Terminal and basic bash commands.
 From there, I wrote a simple program in C++ which whenever I call the Photon, it will turn on a light that is plugged in.
