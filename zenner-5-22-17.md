@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Caleb's Status Report!"
+date: "2017-01-11 10:16:28 -0500"
+---
+Today, I, Caleb, started using a brand new Photon. I started it up and set it up using Terminal and basic bash commands.
+From there, I wrote a simple program in C++ which whenever I call the Photon, it will turn on a light that is plugged in.
+It worked! Afterwards, I helped some of the other students with setting up their Photons, with the help of Nathan.
+Overall, a good start to my week, and hopefully I will progress more next week and be able to help more.
