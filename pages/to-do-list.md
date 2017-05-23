@@ -6,7 +6,7 @@ permalink: /todo/
 
 There are many things that we still have to accomplish in order make our full coding club.
 
-Members can [edit this page on GitHub.](https://github.com/cehs/cehs.github.io/blob/master/pages/to-do-list.markdown)
+Members can [edit this page on GitHub.](https://github.com/nrobinson2000/cehscoding/blob/master/pages/to-do-list.markdown)
 
 ## Here is the list at the present:
 * Get new members
