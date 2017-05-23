@@ -10,21 +10,21 @@ date: "2017-05-23 10:10:10 -0500"
 
 3. Name the file in the following format:
 
-```
-yyyy-mm-dd-LastName.md
-```
+    ```
+    yyyy-mm-dd-LastName.md
+    ```
 
 4. Place the following in the top of the file:
 
-```
----
-layout: post
-title: "FirstName Update dd-mm-yy"
-date: "yyyy-mm-dd HH:MM:SS -0500"
----
-```
+    ```
+    ---
+    layout: post
+    title: "FirstName Update dd-mm-yy"
+    date: "yyyy-mm-dd HH:MM:SS -0500"
+    ---
+    ```
 
-Substitute in the title, dates, and time in the formats above.
+    Substitute in the title, dates, and time in the formats above.
 
 5. Enter the content for your post below the `---`. You must write your post using [Markdown formatting.](https://daringfireball.net/projects/markdown/basics)
 
