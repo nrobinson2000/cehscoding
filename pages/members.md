@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Founders
-permalink: /founders/
+title: CEHS Coding Members
+permalink: /members/
 ---
 
-Here are the founders of CEHS Coding. Founders can [edit this page on GitHub.](https://github.com/cehs/cehs.github.io/blob/master/pages/founders.md)
+Here are the members of CEHS Coding. Members can [edit this page on GitHub.](https://github.com/nrobinson2000/cehscoding/blob/master/pages/members.md)
 
 ## Nathan Robinson
 
@@ -19,7 +19,7 @@ Nathan is the manager of the CEHS Coding website, Twitter and Slack. He also lea
 ## Benjamin Keller
 
 
-## Hajmil Carr
+## Caleb Weinstein-Zenner
 
 
 ## William Jordan
@@ -32,3 +32,7 @@ He really wants to learn more about HTML5 through this club.
 >"I am a scrublord"
 >
 >William Jordan September 5, 2016.
+
+## Connor LaBonty
+
+## Hunter Grimes
