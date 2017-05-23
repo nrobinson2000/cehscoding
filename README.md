@@ -2,7 +2,7 @@
 
 # How to make a blog post
 
-1. Navigate to [the cehscoding `_posts` folder on GitHub](https://github.com/nrobinson2000/cehscoding)
+1. Navigate to [the cehscoding `_posts` folder on GitHub](https://github.com/nrobinson2000/cehscoding/tree/master/_posts)
 
 2. Click the <kbd>Create new File</kbd> button.  (You will have to log into GitHub if you have not done so already.)
 
