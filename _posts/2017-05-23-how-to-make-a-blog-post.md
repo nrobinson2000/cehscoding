@@ -32,6 +32,6 @@ date: "2017-05-23 10:10:10 -0500"
 
 7. Change the title of your pull request and add a comment if you wish.  Click the green <kbd>Create pull request</kbd> button when you are ready.
 
-8. Wait for me to merge your pull request.  A preview of the blog your added post will automatically be generated and you can view it by clicking the `Show all checks` link and clicking `Details` on `deploy/netlify`.
+8. Wait for me to merge your pull request.  A preview of the blog with your added post will automatically be generated and you can view it by clicking the `Show all checks` link and clicking `Details` on `deploy/netlify`.
 
 <center><img src="images/pullRequest.png"></center>
