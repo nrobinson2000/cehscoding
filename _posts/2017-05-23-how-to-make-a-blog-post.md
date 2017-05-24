@@ -26,7 +26,7 @@ date: "2017-05-23 10:10:10 -0500"
 
     Substitute in the title, dates, and time in the formats above.
 
-5. Enter the content for your post below the `---`. You must write your post using [Markdown formatting.](https://daringfireball.net/projects/markdown/basics)
+5. Enter the content for your post below the `---`. You must write your post using [Markdown formatting.](https://daringfireball.net/projects/markdown/basics)  I recommend using [Dillinger](http://dillinger.io/) to draft your post.
 
 6. Once you have finished your post, click the green <kbd>Propose new File</kbd> button at the bottom.  On the next page, click the green <kbd>Create pull request</kbd> button.
 
