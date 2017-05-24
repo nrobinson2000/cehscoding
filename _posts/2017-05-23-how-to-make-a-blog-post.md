@@ -16,13 +16,13 @@ date: "2017-05-23 10:10:10 -0500"
 
 4. Place the following in the top of the file:
 
-    {% highlight markdown %}
+    ```
     ---
     layout: post
     title: "FirstName Update dd-mm-yy"
     date: "yyyy-mm-dd HH:MM:SS -0500"
     ---
-    {% endhighlight %}
+    ```
 
     Substitute in the title, dates, and time in the formats above.
 
