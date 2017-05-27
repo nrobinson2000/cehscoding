@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "CEHS Coding Poster"
-date: "2017-05-25 10:10:10 -0500"
+date: "2017-05-26 10:10:10 -0500"
 ---
 
-We are designing [a new poster to advertise CEHS Coding Club to people who may be interested in joining.](/poster/new-poster.pdf)
+We have designed [a new poster to advertise CEHS Coding Club to people who may be interested in joining.](/poster/new-poster.pdf)  They are laminated and have been posted around the High School.  We hope these posters will help other students discover coding club and inspire them to join.
 
-## Here is a preview:
+![](/poster/poster-x10.jpg)
 
-<pre>
-<img src="/poster/new-poster.svg">
-</pre>
+>Nathan Robinson - 5 / 26 / 2017
