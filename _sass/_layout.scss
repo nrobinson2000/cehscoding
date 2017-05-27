@@ -36,7 +36,7 @@ a {
 }
 
 .site-title img:hover {
-  background-color: #ffffff;
+  background-color: #dddddd;
 }
 
 .site-nav {
@@ -191,6 +191,12 @@ a {
 
     > li {
         margin-bottom: $spacing-unit;
+        transition: background 0.5s linear;
+        border-radius: 7px;
+    }
+
+    > li:hover {
+      background-color: #353636;
     }
 }
 
