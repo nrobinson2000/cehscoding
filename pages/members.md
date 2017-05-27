@@ -1,6 +1,6 @@
 ---
-layout: page
-title: CEHS Coding Members
+layout: simple
+title: Members
 permalink: /members/
 ---
 

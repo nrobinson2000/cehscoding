@@ -21,12 +21,27 @@ a {
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
 
 
     &,
     &:visited {
         color: #19b868;
     }
+}
+
+.site-title div {
+  background-color: #ffffff;
+}
+
+.site-title img {
+  background-color: #19b868;
+  transition: background 0.5s linear;
+}
+
+.site-title img:hover {
+  background-color: #ffffff;
 }
 
 .site-nav {
