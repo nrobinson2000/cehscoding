@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: simple
 title: "To Do"
 permalink: /todo/
 ---
+
+# To Do List
 
 There are many things that we still have to accomplish in order make our full coding club.
 
