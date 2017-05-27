@@ -12,7 +12,7 @@ Nathan loves to develop tools and make embedded projects.  His favorite device i
 
 Nathan uses C++ when creating projects with Photons, Bash when creating tools, and JavaScript when creating responsive websites.
 
-Nathan's full portfolio of projects and achievements can be found at [nrobinson2000.me](http://nrobinson2000.me).
+Nathan's full portfolio of projects and achievements can be found at [nrobinson2000.me](https://nrobinson2000.me).
 
 Nathan is the manager of the CEHS Coding website, Twitter and Slack. He also leads the club meetings.
 
