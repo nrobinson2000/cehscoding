@@ -6,8 +6,7 @@ permalink: /news/
 
 <!-- <script type="text/javascript" src="/js/instafeed.min.js"></script> -->
 
-<a class="twitter-timeline" href="https://twitter.com/CEHSCoding">Tweets by CEHSCoding</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/CEHSCoding">Tweets by CEHSCoding</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- <script type="text/javascript">
     var feed = new Instafeed({

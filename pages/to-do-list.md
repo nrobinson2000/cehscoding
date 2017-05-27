@@ -4,7 +4,7 @@ title: "To Do"
 permalink: /todo/
 ---
 
-# To Do List
+<h1 class="post-title">To Do List</h1>
 
 There are many things that we still have to accomplish in order make our full coding club.
 
