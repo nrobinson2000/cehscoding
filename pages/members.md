@@ -16,10 +16,18 @@ Nathan's full portfolio of projects and achievements can be found at [nrobinson2
 
 Nathan is the manager of the CEHS Coding website, Twitter and Slack. He also leads the club meetings.
 
+<hr>
+
 ## Benjamin Keller
 
 
+<hr>
+
+
 ## Caleb Weinstein-Zenner
+
+
+<hr>
 
 
 ## William Jordan
@@ -33,6 +41,10 @@ He really wants to learn more about HTML5 through this club.
 >
 >William Jordan September 5, 2016.
 
+<hr>
+
 ## Connor LaBonty
+
+<hr>
 
 ## Hunter Grimes
