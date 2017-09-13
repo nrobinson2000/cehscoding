@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<center><img width="60%" style="border-radius: 25px;" src="/images/logos/CEHSCoding.new.png"></center>
+<center><img width="60%" style="border-radius: 25px;" src="/images/logos/new-hexagon.png"></center>
 
 
 <center><h3>CEHS Coding is a student-led club hosted on Monday afternoons in the Achievement Center.</h3></center>
