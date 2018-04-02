@@ -50,7 +50,7 @@ He really wants to learn more about HTML5 through this club.
 
 ## Máximo Kesselhaut
 
-<img src="https://www.easyprogramming.net/logo/js.png" width="200px">
+<img src="https://www.easyprogramming.net/logo/js.png" width="75px">
 
 Maximo is a sophomore in the CEHS Coding Club.
 
