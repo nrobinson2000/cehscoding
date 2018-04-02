@@ -34,6 +34,10 @@ Benjamin Keller if a relatively new to programming, and has been working to impr
 
 <hr>
 
+## Lauren Abrahamsen
+
+
+<hr>
 
 ## William Jordan
 William is a freshman who's only been coding for a couple of months. His favorite place to code is [JSFiddle](https://jsfiddle.net/SinBADCEHS/kx7f6e66/6/).
@@ -62,6 +66,10 @@ Maximo is a sophomore in the CEHS Coding Club.
 
 
 ## Hunter Grimes
+
+<hr>
+
+## Jinya Fisher-LaPlante
 
 <hr>
 
