@@ -52,4 +52,11 @@ Maximo is a sophomore in the CEHS Coding Club.
 
 <hr>
 
+
 ## Hunter Grimes
+
+<hr>
+
+## Ms. Raspiller
+Ms. Raspiller is the advisor for the CEHS Coding Club.
+
