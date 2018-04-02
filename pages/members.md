@@ -48,7 +48,7 @@ He really wants to learn more about HTML5 through this club.
 <hr>
 
 ## Máximo Kesselhaut
-Maximo is a sophomore in the CEHS Coding Club.
+Maximo is a sophomore in the CEHS Coding Club. He knows JavaScript and is learning how to code in Python.
 
 <hr>
 
