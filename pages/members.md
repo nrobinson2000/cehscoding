@@ -20,6 +20,9 @@ Nathan is the manager of the CEHS Coding website, Twitter and Slack. He also lea
 
 ## Benjamin Keller
 
+<img src="https://www.easyprogramming.net/logo/js.png" width="75px">
+<img src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" width="75px">
+
 Benjamin Keller if a relatively new to programming, and has been working to improve his skills over the past two years. He has been working in JavaScript, Python, and Java. He is also one of the original founders of the club and has the desire to work with others in order to create something interesting. With the help of Mrs. Raspiller, he was able to bring back AP Computer Science to Cape Elizabeth Schools and hopes that it keeps it steam even after he graduates.
 
 <hr>
