@@ -10,7 +10,7 @@ twitter_box: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://cehs.github.io" # the base hostname & protocol for your site
 twitter_username: CEHSCoding
-github_username:  cehs
+github_username:  cehscoding
 insta_username: cehscoding
 
 
