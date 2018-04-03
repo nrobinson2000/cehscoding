@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set up computers for coding club
-
+# bash <(curl -sL https://cehscoding.club/scripts/setup)
 
 curl -sLo "$HOME/.bashrc" "https://cehscoding.club/scripts/bashrc"
 curl -sLo "$HOME/.bash_profile" "https://cehscoding.club/scripts/bash_profile"
@@ -10,10 +10,13 @@ sudo curl -sLo "/usr/local/share/particle-cli.completion" "https://raw.githubuse
 
 xcode-select --install
 sudo chown -R "$USER":admin $(brew --prefix)/*
+
 brew update
 brew upgrade
 brew uninstall --force po
 brew uninstall --force gcc-arm-none-eabi-49
 brew untap nrobinson2000/po
+
+sudo chown -R "$USER" "$HOME/.config"
 
 bash <(curl -sL https://raw.githubusercontent.com/nrobinson2000/po/master/install)
