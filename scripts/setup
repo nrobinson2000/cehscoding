@@ -20,3 +20,4 @@ brew untap nrobinson2000/po
 sudo chown -R "$USER" "$HOME/.config"
 
 bash <(curl -sL https://raw.githubusercontent.com/nrobinson2000/po/master/install)
+po setup-atom
