@@ -9,6 +9,8 @@ curl -sLo "$HOME/.bash_profile" "https://cehscoding.club/scripts/bash_profile"
 sudo curl -sLo "/usr/local/share/particle-cli.completion" "https://raw.githubusercontent.com/nrobinson2000/particle-cli-completion/master/particle-cli.completion"
 
 xcode-select --install
+read -rp "Wait for the software to install and then press ENTER: "
+
 sudo chown -R "$USER":admin $(brew --prefix)/*
 
 brew update
@@ -16,8 +18,14 @@ brew upgrade
 brew uninstall --force po
 brew uninstall --force gcc-arm-none-eabi-49
 brew untap nrobinson2000/po
+brew install bash-completion
 
 sudo chown -R "$USER" "$HOME/.config"
 
 bash <(curl -sL https://raw.githubusercontent.com/nrobinson2000/po/master/install)
+
+sudo chown -R "$USER" "$HOME/.config"
+
+read -rp "Go to Atom > Install Shell Commands and then press ENTER: "
+
 po setup-atom
