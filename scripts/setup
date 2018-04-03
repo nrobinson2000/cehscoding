@@ -3,6 +3,9 @@
 # Set up computers for coding club
 # bash <(curl -sL https://cehscoding.club/scripts/setup)
 
+echo "Configuring this computer for Coding Club use..."
+read -rp "ENTER / CTRL-C: "
+
 curl -sLo "$HOME/.bashrc" "https://cehscoding.club/scripts/bashrc"
 curl -sLo "$HOME/.bash_profile" "https://cehscoding.club/scripts/bash_profile"
 
