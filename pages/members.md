@@ -67,6 +67,7 @@ Maximo is a sophomore in the CEHS Coding Club.
 <hr>
 
 ## Zach Merrill
+<img src="https://www.easyprogramming.net/logo/js.png" width="75px">
 
 <hr>
 
