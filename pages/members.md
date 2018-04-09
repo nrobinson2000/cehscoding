@@ -66,6 +66,10 @@ Maximo is a sophomore in the CEHS Coding Club.
 
 <hr>
 
+## Zach Merrill
+
+<hr>
+
 
 ## Hunter Grimes
 
@@ -76,5 +80,5 @@ Maximo is a sophomore in the CEHS Coding Club.
 <hr>
 
 ## Ms. Raspiller
-Ms. Raspiller is the advisor for the CEHS Coding Club.  Ms. Raspiller's first coding language was BASIC - and she loved it!  Followed by Fortran (complete with punch cards) which she didn't love. Then came personal computers and DOS, Lotus 123, various versions of Windows (3.0, 95, 98, 2000, XP) then on to MacOS.  Also, took a semester of Java in grad school. Have learned JavaScript and more Java through CodeHS and other online resources.
+Ms. Raspiller is the advisor for the CEHS Coding Club.
 
