@@ -66,6 +66,10 @@ Maximo is a sophomore in the CEHS Coding Club.
 
 <hr>
 
+## Zach Merrill
+
+<hr>
+
 
 ## Hunter Grimes
 
