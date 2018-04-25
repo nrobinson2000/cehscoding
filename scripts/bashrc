@@ -59,7 +59,7 @@ function pull-all()
 
 alias skip-ci="update '[skip ci]'"
 
-source "/usr/local/share/particle-cli.completion"
+source /usr/local/share/particle-cli
 [ -f /usr/local/etc/bash_completion ] && source /usr/local/etc/bash_completion
 source /usr/local/etc/bash_completion.d/po
 

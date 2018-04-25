@@ -9,7 +9,7 @@ read -rp "ENTER / CTRL-C: "
 curl -sLo "$HOME/.bashrc" "https://cehscoding.club/scripts/bashrc"
 curl -sLo "$HOME/.bash_profile" "https://cehscoding.club/scripts/bash_profile"
 
-sudo curl -sLo "/usr/local/share/particle-cli.completion" "https://raw.githubusercontent.com/nrobinson2000/particle-cli-completion/master/particle-cli.completion"
+sudo curl -sLo "/usr/local/share/particle-cli" "https://raw.githubusercontent.com/nrobinson2000/particle-cli-completion/master/particle-cli"
 
 xcode-select --install
 read -rp "Wait for the software to install and then press ENTER: "
